@@ -6,7 +6,7 @@
 (define (sum-of-squares x y)
   (+ (square x) (square y)))
 
-(define (sum-squares-larger-2-of-3 x y x)
+(define (sum-squares-larger-2-of-3 x y z)
   (sum-of-squares (largest-two-of x y z)))
 
 
