@@ -17,3 +17,6 @@
 
 (define (first-two-larger? a b c)
   (or (> a b c) (> b a c)))
+
+(define (largest-two a b c)
+  (list (max a b) (max (min a b) c)))
