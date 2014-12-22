@@ -27,6 +27,16 @@ as well as:
 
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/readings/
 
+*Reading Plan*
+
+The plan is to read the Instructor's Manual (for the relevant
+sections covered by the video lecture) first (to get an overview of
+the learning objectives for the section).
+
+Next will be to read the relevant section for the video (eg video 1a
+first).  Then re-read the section in the book - making any notes.
+
+
 All chapter readings will be done before watching the videos.
 
 This is a work-in-progress.
