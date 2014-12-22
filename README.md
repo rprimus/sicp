@@ -39,6 +39,15 @@ first).  Then re-read the section in the book - making any notes.
 
 All chapter readings will be done before watching the videos.
 
+*Problems*
+After watching the video, a second pass through the required section
+reading will be done.  At this point, the exercises will be
+attempted - first the subsection exercises (followed by the
+Instructor's Manual additional exercises (if any)).
+
+When both videos has been completed,  the additional problem sets will
+be attempted (again, if any are relevant).
+
 This is a work-in-progress.
 
 -rprimus
