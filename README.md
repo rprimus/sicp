@@ -21,7 +21,13 @@ Instructor's Manual.
 The plan is to follow the class lecture (and readings) schedule as
 laid out in:
 
+http://community.schemewiki.org/?sicp-text-to-video-map
+
+as well as:
+
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/readings/
+
+All chapter readings will be done before watching the videos.
 
 This is a work-in-progress.
 
