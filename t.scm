@@ -1,0 +1,16 @@
+(define (evaluate exp)
+  (case (car exp)
+    ((+ add sum) (apply + (cdr exp)))
+    ((* mult) (apply * (cdr exp)))
+    (else (error "unrecognised operator" evaluate (car exp)))))
+
+(define (my-make-list n exp)
+  (if (zero? n)
+      '()
+      (cons exp (my-make-list (- n 1) exp))))
+
+(define (cube n)
+  (display n)
+  (display " cubed = ")
+  (display (* n n n))
+  (newline))
