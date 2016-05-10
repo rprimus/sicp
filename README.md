@@ -27,6 +27,14 @@ as well as:
 
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/readings/
 
+*Book Synopsis*
+The progression of the book is
+1) abstracting processes and names with procedures
+2) abstracting data representation
+3) abstracting interface as a module, along with the theory and practice of
+mutation
+4) abstracting semantics with interpreters (programs which take programs as data).
+
 *Reading Plan*
 
 The plan is to read the Instructor's Manual (for the relevant
@@ -35,7 +43,6 @@ the learning objectives for the section).
 
 Next will be to read the relevant section for the video (eg video 1a
 first).  Then re-read the section in the book - making any notes.
-
 
 All chapter readings will be done before watching the videos.
 
